@@ -1,4 +1,15 @@
-## Hi there 👋
+## Yo!
+
+### About Me
+
+**Canute**, but my real name is *Knut Holtet*. I like to build cool projects, that look nice!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=canute" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnutHoltet&layout=compact" />
+</a>
 
 <!--
 **KnutHoltet/KnutHoltet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
