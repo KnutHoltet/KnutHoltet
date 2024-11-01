@@ -2,6 +2,10 @@
 
 ### About Me
 
+### Norsk
+Sjekk ut nettsiden min; delvis scuffed! https://knutwebsite-d6cf7.web.app/ (Ikke et phishing angrep)
+
+### Engelsk
 **Canute**, but my real name is *Knut Holtet*. I like to build cool projects, that look nice!
 
 
