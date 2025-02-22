@@ -2,28 +2,17 @@
 
 ### About Me
 
-### Norsk
-Sjekk ut nettsiden min; delvis scuffed! https://knutwebsite-d6cf7.web.app/ (Ikke et phishing angrep)
 
-### English
-**Canute**, but my real name is *Knut Holtet*. I like to build cool projects, that look nice!
+
+
+- 🔭 I’m currently working on Nixos dotfiles and object orientet programming
+- 🌱 I’m currently learning to snowboard!
+
+
+- 📫 How to reach me: Open dms on Discord, username canute.
+
 
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnutHoltet&layout=compact" />
 </a>
-
-<!--
-**KnutHoltet/KnutHoltet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
